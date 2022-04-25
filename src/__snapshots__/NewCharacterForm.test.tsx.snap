@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewCharacterForm renders the form correctly 1`] = `
+<div>
+  <form>
+    <div>
+      <label
+        for="name"
+      >
+        Name
+      </label>
+      <input
+        id="name"
+        type="text"
+      />
+    </div>
+    <div>
+      <button
+        type="submit"
+      >
+        Submit
+      </button>
+    </div>
+  </form>
+</div>
+`;
